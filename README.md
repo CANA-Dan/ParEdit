@@ -9,7 +9,7 @@ I have quite a lot of experience mapping in the past for a game called Beat Sabe
 
 ## Current Features
 
-**Good BPM change support.** BPM changes are extensively supported, allowing you to place them down, modify their placement after the fact, and retain their relative beats while it's done so. this allows you to easily deal with drift or odd time signatures with ease. You can also copy and paste them, and include notes in the copy action. More features are planned in the future, like automatic bpm detection and automatic BPM change placement, and the ability to drag notes around with bpm change updates.
+**Good BPM change support.** BPM changes are extensively supported, allowing you to place them down, modify their placement after the fact, and retain their relative beats while it's done so. This allows you to deal with drift or odd time signatures with ease. You can also copy and paste them, and include notes in the copy action. More features are planned in the future, like automatic bpm detection and automatic BPM change placement, and the ability to drag notes around with bpm change updates.
 
 ![Untitled](https://user-images.githubusercontent.com/24213630/171141109-946b0f4c-2599-45a0-99f1-9b349fa38670.png)
 
