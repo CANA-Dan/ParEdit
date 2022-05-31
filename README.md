@@ -9,7 +9,7 @@ I have quite a lot of experience mapping in the past for a game called Beat Sabe
 
 ## Current Features
 
-**Good BPM change support.** BPM changes are extensively supported, allowing you to place them down, modify their placement after the fact, and retain their relative beats while it's done so. This allows you to deal with drift or odd time signatures with ease. You can also copy and paste them, and include notes in the copy action. More features are planned in the future, like automatic bpm detection and automatic BPM change placement, and the ability to drag notes around with bpm change updates.
+**Good BPM change support.** BPM changes are extensively supported, allowing you to place them down, modify their placement after the fact, and retain their relative beats while it's done so. This allows you to deal with drift or odd time signatures with ease. You can also copy and paste them, and include notes in the copy action.
 
 ![Untitled](https://user-images.githubusercontent.com/24213630/171141109-946b0f4c-2599-45a0-99f1-9b349fa38670.png)
 
@@ -35,6 +35,8 @@ Currently the editor is a little unstable. there are the occasional crashes and 
 I'm also planning on adding a way to add saved drum sessions to your clipboard, so you can paste them down in the editor. That way you only need to do cleanup in editor and can make the entire beat map in Paradiddle (in theory).
 
 bookmarks, and jump points are planned to be added. These will allow you to jump around in editor or in the map in game to a specified place, put down by the mapper, similar to clone hero.
+
+More BPM change QOL things, like automatic bpm detection and automatic BPM change placement, and the ability to drag notes around with bpm change updates.
 
 As the game updates, this editor will be too to keep up with all its features.
 
