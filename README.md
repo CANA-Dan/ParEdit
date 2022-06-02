@@ -18,7 +18,7 @@ I have quite a lot of experience mapping in the past for a game called Beat Sabe
 
 **High quality spectrogram.** A huge amount of work went into the spectrogram, but it was well worth it. The spectrogram has 2 main settings, the low frequency mode, and standard mode.
 
-**Low Frequency Mode** allows the user to look at a close up of 5000hz and below, although you can go all the way down to just looking at 300 hz and below. It's sudo logarithmic and give you an incredible view of all the low frequencies, allowing you to more easily pick apart close together sounds, both in frequency and time.
+**Low Frequency Mode** allows the user to look at a close up of 5000hz and below, although you can go all the way down to just looking at 300 hz and below. It's sudo logarithmic and gives you an incredible view of all the low frequencies, allowing you to more easily pick apart close together sounds, both in frequency and time.
 
 **Standard Mode** gives you the full range of frequencies and allows you to more easily spot Rides, Hi-Hats, and Crashes.
 
