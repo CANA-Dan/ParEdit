@@ -1,6 +1,6 @@
 Engine/Binaries/Win64/CrashReportClient.exe	2021-10-23T01:20:31.068Z
 Engine/Binaries/Win64/turbojpeg.dll	2021-10-23T01:20:47.417Z
-ParEdit/Binaries/Win64/CustomSongEditor-Win64-Shipping.exe	2022-09-07T00:33:10.906Z
+ParEdit/Binaries/Win64/CustomSongEditor-Win64-Shipping.exe	2022-09-07T17:10:54.604Z
 ParEdit/Binaries/Win64/turbojpeg.dll	2021-10-23T01:43:50.307Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2021-10-23T01:29:17.521Z
 Engine/Binaries/Win64/X3DAudio1_7.dll	2021-10-23T01:18:26.346Z
@@ -154,4 +154,4 @@ ParEdit/Config/SteamVRBindings/vive_tracker_right_foot.json	2021-07-31T15:00:50.
 ParEdit/Config/SteamVRBindings/vive_tracker_right_knee.json	2021-07-31T15:00:50.612Z
 ParEdit/Config/SteamVRBindings/vive_tracker_right_shoulder.json	2021-07-31T15:00:50.607Z
 ParEdit/Config/SteamVRBindings/vive_tracker_waist.json	2021-07-31T15:00:50.604Z
-CustomSongEditor.exe	2022-09-07T00:33:37.166Z
+CustomSongEditor.exe	2022-09-07T17:11:13.500Z
