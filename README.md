@@ -17,10 +17,10 @@ I have quite a lot of experience mapping in the past for a game called Beat Sabe
 
 ![BPM manipulation menu](https://user-images.githubusercontent.com/24213630/171141109-946b0f4c-2599-45a0-99f1-9b349fa38670.png)
 
-**High quality spectrogram.** A huge amount of work went into the 3D spectrogram, but it was well worth it. The spectrogram is both very fast and customizable to a high degree, allowing you to change brightness, frequency logarithm, volume exponent (sharpness), and color, all at run time without needing to regenerate the spectrogram. Additionally, you can clamp the frequencies you want to look at to get a high detail view of just those frequencies, and you can set how many threads you wish to use, up to 24 total threads. theres also a waveform for the people who want one of those. mush faster than the spectrogram to generate as well, so a good light weight option for weaker systems.
+**High quality spectrogram.** A huge amount of work went into the 3D spectrogram, but it was well worth it. The spectrogram is both very fast and customizable to a high degree, allowing you to change brightness, frequency logarithm, volume exponent (sharpness), and color, all at run time without needing to regenerate the spectrogram. Additionally, you can clamp the frequencies you want to look at to get a high detail view of just those frequencies, and you can set how many threads you wish to use, up to 24 total threads. Theres also a waveform for the people who want one of those. Much faster than the spectrogram to generate as well, so a good light weight option for weaker systems.
 
 ![Spectrogram](https://user-images.githubusercontent.com/24213630/180401942-327719f7-b9c4-4832-96e9-14a866ab1cee.png)
-![Untitled](https://user-images.githubusercontent.com/24213630/196630542-d22c6da2-0075-4d5e-af37-c2080746b1bd.png)
+![Waveform](https://user-images.githubusercontent.com/24213630/196630542-d22c6da2-0075-4d5e-af37-c2080746b1bd.png)
 
 **Multi audio format support.** To keep parity with the game, the editor supports .Wav, .Flac, .MP3, and .OGG. This gives you wide flexibility in the formats you wish to use for your beat map.
 
