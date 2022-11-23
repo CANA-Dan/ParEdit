@@ -294,6 +294,10 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/54f6567f89184beb9203f6211c791175"
 		},
 		{
+			"Name": "AnalysisPlugin",
+			"Enabled": true
+		},
+		{
 			"Name": "OSCModulationMixing",
 			"Enabled": true
 		},
@@ -341,10 +345,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7bc7facebbeb4ff994593d5cf3e40438"
 		},
 		{
-			"Name": "DansBPLibrary",
-			"Enabled": false
-		},
-		{
 			"Name": "eXiSoundVis",
 			"Enabled": false
 		},
@@ -386,10 +386,6 @@
 		},
 		{
 			"Name": "XCodeSourceCodeAccess",
-			"Enabled": false
-		},
-		{
-			"Name": "PerformancePlugin",
 			"Enabled": false
 		},
 		{
