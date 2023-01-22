@@ -86,7 +86,7 @@
 		},
 		{
 			"Name": "MidiAsset",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aff69119f95d405abbab38236e258c2e"
 		},
 		{
@@ -405,6 +405,15 @@
 			"Name": "CustomInputModeGameOnly",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f138ff0ffa434737bb687bbdcb79ad98"
+		},
+		{
+			"Name": "RuntimeFilesDownloader",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e7e6df6d6e9c46f0ae35163eab67ff9a"
+		},
+		{
+			"Name": "ContentBrowserFileDataSource",
+			"Enabled": true
 		}
 	]
 }
