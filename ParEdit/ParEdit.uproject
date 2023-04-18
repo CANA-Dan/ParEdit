@@ -42,10 +42,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AssetSearch",
-			"Enabled": true
-		},
-		{
 			"Name": "AudioModulation",
 			"Enabled": true
 		},
@@ -289,10 +285,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OSCModulationMixing",
-			"Enabled": true
-		},
-		{
 			"Name": "Synthesis",
 			"Enabled": false
 		},
@@ -385,10 +377,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ce01648a2cde41338991bb855a624ffa"
 		},
 		{
-			"Name": "OnlineFramework",
-			"Enabled": true
-		},
-		{
 			"Name": "MIDIDevice",
 			"Enabled": true
 		},
@@ -414,6 +402,34 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "CableComponent",
+			"Enabled": false
+		},
+		{
+			"Name": "CameraShakePreviewer",
+			"Enabled": false
+		},
+		{
+			"Name": "FacialAnimation",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": false
+		},
+		{
+			"Name": "SkeletalReduction",
+			"Enabled": false
+		},
+		{
+			"Name": "SpeedTreeImporter",
+			"Enabled": false
 		}
 	]
 }
