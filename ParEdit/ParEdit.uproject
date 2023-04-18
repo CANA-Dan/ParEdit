@@ -71,15 +71,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "VictoryBPLibrary",
 			"Enabled": true,
 			"MarketplaceURL": "http://www.ue4code.com"
@@ -414,6 +405,15 @@
 		{
 			"Name": "ContentBrowserFileDataSource",
 			"Enabled": true
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux"
+			]
 		}
 	]
 }
