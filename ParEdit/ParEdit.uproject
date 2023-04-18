@@ -42,18 +42,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AudioModulation",
-			"Enabled": true
-		},
-		{
-			"Name": "AudioSynesthesia",
-			"Enabled": true
-		},
-		{
-			"Name": "BlankPlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "BlueprintMaterialTextureNodes",
 			"Enabled": true
 		},
@@ -73,7 +61,7 @@
 		},
 		{
 			"Name": "MidiAsset",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aff69119f95d405abbab38236e258c2e"
 		},
 		{
@@ -143,10 +131,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SoundVisualizations",
-			"Enabled": true
-		},
-		{
 			"Name": "LocationServicesBPLibrary",
 			"Enabled": false
 		},
@@ -173,10 +157,6 @@
 		{
 			"Name": "PlatformCrypto",
 			"Enabled": false
-		},
-		{
-			"Name": "EnhancedInput",
-			"Enabled": true
 		},
 		{
 			"Name": "MobilePatchingUtils",
@@ -270,10 +250,6 @@
 			"Name": "BlueprintJson",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f837e4835fbc434a853fe1ead2410b84"
-		},
-		{
-			"Name": "SoundUtilities",
-			"Enabled": true
 		},
 		{
 			"Name": "AudioAnalysisTools",
@@ -429,6 +405,46 @@
 		},
 		{
 			"Name": "SpeedTreeImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "EnvironmentQueryEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "AISupport",
+			"Enabled": false
+		},
+		{
+			"Name": "BackChannel",
+			"Enabled": false
+		},
+		{
+			"Name": "CharacterAI",
+			"Enabled": false
+		},
+		{
+			"Name": "LightPropagationVolume",
+			"Enabled": false
+		},
+		{
+			"Name": "ProxyLODPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "CustomMeshComponent",
+			"Enabled": false
+		},
+		{
+			"Name": "MatineeToLevelSequence",
+			"Enabled": false
+		},
+		{
+			"Name": "MeshPainting",
+			"Enabled": false
+		},
+		{
+			"Name": "ProceduralMeshComponent",
 			"Enabled": false
 		}
 	]
