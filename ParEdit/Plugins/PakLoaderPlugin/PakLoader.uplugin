@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.4",
+	"FriendlyName": "Pak Loading Plugin",
+	"Description": "Enables you to load .pak files and use its assets.",
+	"Category": "Programming",
+	"CreatedBy": "Blue Mountains GmbH",
+	"CreatedByURL": "https://bluemountains.io",
+	"DocsURL": "https://drive.google.com/file/d/1DeS0DlwLTue_jLNqjGHVHz6AHs89rDUM/view?usp=sharing",
+	"MarketplaceURL": "",
+	"SupportURL": "unreal.mp@bluemountains.io",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PakLoader",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac",
+				"Android",
+				"IOS"
+			]
+		}
+	]
+}

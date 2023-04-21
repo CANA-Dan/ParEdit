@@ -446,6 +446,11 @@
 		{
 			"Name": "ProceduralMeshComponent",
 			"Enabled": false
+		},
+		{
+			"Name": "PakLoader",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fb9820b9b5c24f8ba178b2a11a61063f"
 		}
 	]
 }
