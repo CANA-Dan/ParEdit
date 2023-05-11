@@ -8,7 +8,7 @@ At the end of 2021, I decided I wanted to both learn unreal engine and make a cu
 
 [ParEdit Wiki](https://github.com/CANA-Dan/ParEdit/wiki)
 
-[My patreon](patreon.com/CanaDan) and [My Kofi](https://ko-fi.com/canadan) if one time donations are more your thing
+[My patreon](patreon.com/CanaDan) if you really want to support me, and [My Kofi](https://ko-fi.com/canadan) if one time donations are more your thing
 
 
 
