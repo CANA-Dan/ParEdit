@@ -4,7 +4,7 @@ At the end of 2021, I decided I wanted to both learn unreal engine and make a cu
 
 [Paradiddle Discord Server](https://discord.gg/paradiddle)
 
-[ParEdit Focused Discord](https://discord.gg/htRPdy9PkX). Its best to provide bug reports and feature requests here.
+[ParEdit Focused Discord](https://discord.gg/htRPdy9PkX)
 
 [ParEdit Wiki](https://github.com/CANA-Dan/ParEdit/wiki)
 
