@@ -2,8 +2,6 @@
 
 At the end of 2021, I decided I wanted to both learn unreal engine and make a custom song editor for the game paradiddle. I accomplished that and learned a whole bunch along the way!
 
-**If you want the latest updates, switch the [Beta](https://github.com/CANA-Dan/ParEdit/tree/Beta) branch.**
-
 [Paradiddle Discord Server](https://discord.gg/paradiddle)
 
 [ParEdit Focused Discord](https://discord.gg/htRPdy9PkX)
