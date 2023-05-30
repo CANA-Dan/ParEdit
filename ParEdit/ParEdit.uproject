@@ -448,10 +448,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "GeometryMode",
-			"Enabled": false
-		},
-		{
 			"Name": "LauncherChunkInstaller",
 			"Enabled": false
 		},
@@ -507,6 +503,14 @@
 		},
 		{
 			"Name": "NullSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "BlueprintMaterialTextureNodes",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryMode",
 			"Enabled": false
 		}
 	],
