@@ -4,7 +4,12 @@ At the end of 2021, I decided I wanted to both learn unreal engine and make a cu
 
 [Paradiddle Discord Server](https://discord.gg/paradiddle)
 
+[ParEdit Focused Discord](https://discord.gg/htRPdy9PkX)
+
 [ParEdit Wiki](https://github.com/CANA-Dan/ParEdit/wiki)
+
+[My patreon](https://patreon.com/CanaDan) if you really want to support me, and [My Kofi](https://ko-fi.com/canadan) if one time donations are more your thing
+
 
 
 **Overview**
@@ -22,11 +27,13 @@ I have quite a lot of experience mapping in the past for a game called Beat Sabe
 ![Spectrogram](https://user-images.githubusercontent.com/24213630/180401942-327719f7-b9c4-4832-96e9-14a866ab1cee.png)
 ![Waveform](https://user-images.githubusercontent.com/24213630/196630542-d22c6da2-0075-4d5e-af37-c2080746b1bd.png)
 
-**MIDI Out.** Using a program like [LoopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html), you can output the notes to paradiddle or a daw to get realtime feedback for timing or if your instruments are correct.
+**MIDI Importing.** you can import midi files right into ParEdit to quickly put together a map. Songs containing large arrays of instrument with non standard midi values are fully supported. Type 0 tracks can have their channel filtered, and ableton files (which dont contain a BPM) can have their BPM adjusted at import time.
+
+**MIDI Out.** Using a program like [LoopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html), you can output the notes to paradiddle or a daw to get real time feedback for timing or if your instruments are correct.
 
 **Multi audio format support.** To keep parity with the game, the editor supports .Wav, .Flac, .MP3, and .OGG. This gives you wide flexibility in the formats you wish to use for your beat map.
 
-**Multi audio track support.** Again, to keep parity with the game, multiple tracks are supported and will be loaded, no sweat. The spectrogram track is also separate from the game tracks, allowing you to mix and match the tracks and get exactly what you want from the spectrogram. In editor you can manage the audio tracks, allowing you to mute or solo tracks with ease. You can also view multiple spectrograms simultaniously for multi drum track setups.
+**Multi audio track support.** Again, to keep parity with the game, multiple tracks are supported and will be loaded, no sweat. The spectrogram track is also separate from the game tracks, allowing you to mix and match the tracks and get exactly what you want from the spectrogram. In editor you can manage the audio tracks, allowing you to mute or solo tracks with ease. You can also view multiple spectrograms simultaneously for multi drum track setups.
 
 ![Multi Spectrogram](https://user-images.githubusercontent.com/24213630/196630920-f69f4d59-da90-4018-8b38-1bfda85dca6d.png)
 ![Audio Management](https://user-images.githubusercontent.com/24213630/196630938-d5231130-c952-41c6-843f-5f7085c61519.png)
@@ -37,7 +44,7 @@ I have quite a lot of experience mapping in the past for a game called Beat Sabe
 
 ## Future Plans
 
-Importing and exporting midi.
+high speed note loading and editing with the use of instanced meshes. 50,000 notes loading in half a second? yes please!
 
 More BPM change QOL things, like automatic bpm detection and automatic BPM change placement.
 
