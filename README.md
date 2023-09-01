@@ -27,7 +27,7 @@ I have quite a lot of experience mapping in the past for a game called Beat Sabe
 ![Spectrogram](https://user-images.githubusercontent.com/24213630/180401942-327719f7-b9c4-4832-96e9-14a866ab1cee.png)
 ![Waveform](https://user-images.githubusercontent.com/24213630/196630542-d22c6da2-0075-4d5e-af37-c2080746b1bd.png)
 
-**MIDI Importing.** you can import midi files right into ParEdit to quickly put together a map. Song containing large arrays of instrument with non standard midi values are fully supported. Type 0 tracks can have their channel filtered, and ableton files (which dont contain a BPM) can be adjusted at import time.
+**MIDI Importing.** you can import midi files right into ParEdit to quickly put together a map. Songs containing large arrays of instrument with non standard midi values are fully supported. Type 0 tracks can have their channel filtered, and ableton files (which dont contain a BPM) can have their BPM adjusted at import time.
 
 **MIDI Out.** Using a program like [LoopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html), you can output the notes to paradiddle or a daw to get real time feedback for timing or if your instruments are correct.
 
