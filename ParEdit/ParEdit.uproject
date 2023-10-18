@@ -328,14 +328,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "WmfMedia",
-			"Enabled": false
-		},
-		{
-			"Name": "WindowsMoviePlayer",
-			"Enabled": false
-		},
-		{
 			"Name": "XCodeSourceCodeAccess",
 			"Enabled": false
 		},
@@ -511,6 +503,14 @@
 		},
 		{
 			"Name": "GeometryMode",
+			"Enabled": false
+		},
+		{
+			"Name": "MediaFrameworkUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "WindowsMoviePlayer",
 			"Enabled": false
 		}
 	],
