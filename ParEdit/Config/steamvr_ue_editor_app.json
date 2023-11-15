@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.customsongeditor-15973114.ue4editor.exe",
+			"app_key": "application.generated.ue.paredit-15973114.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/Documents/Unreal Projects/CustomSongEditor/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/Documents/Unreal Projects/ParEdit/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "CustomSongEditor-15973114 [UE Editor]"
+					"name": "ParEdit-15973114 [UE Editor]"
 				}
 			}
 		}
