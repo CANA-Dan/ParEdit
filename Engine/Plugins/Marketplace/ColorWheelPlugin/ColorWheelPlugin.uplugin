@@ -10,7 +10,7 @@
 	"DocsURL": "",
 	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ce01648a2cde41338991bb855a624ffa",
 	"SupportURL": "https://w2wizard.myportfolio.com/contact",
-	"EngineVersion": "4.26.0",
+	"EngineVersion": "4.27.0",
 	"CanContainContent": false,
 	"Installed": true,
 	"Modules": [
@@ -21,8 +21,7 @@
 			"BlacklistPlatforms": [
 				"IOS",
 				"Android",
-				"Linux",
-				"LinuxAArch64"
+				"Linux"
 			]
 		}
 	]

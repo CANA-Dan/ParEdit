@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "{2C25E60D-4B2E-B0D8-33BB-2FBF0D9C105F}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -512,18 +512,65 @@
 		{
 			"Name": "WindowsMoviePlayer",
 			"Enabled": false
+		},
+		{
+			"Name": "OpenXREyeTracker",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux",
+				"HoloLens",
+				"Android"
+			]
+		},
+		{
+			"Name": "OpenXRHandTracking",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux",
+				"HoloLens",
+				"Android"
+			]
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
+			]
+		},
+		{
+			"Name": "PostSplashScreen",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"XboxOne"
+			]
+		},
+		{
+			"Name": "OpenImageDenoise",
+			"Enabled": false
+		},
+		{
+			"Name": "OodleData",
+			"Enabled": false
+		},
+		{
+			"Name": "OodleNetwork",
+			"Enabled": false
+		},
+		{
+			"Name": "TextureFormatOodle",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
-		"AllDesktop",
-		"HoloLens",
-		"IOS",
-		"LinuxNoEditor",
-		"LinuxAArch64NoEditor",
-		"Lumin",
-		"MacNoEditor",
-		"TVOS",
 		"WindowsNoEditor"
 	]
 }
