@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1.5,
+	"VersionName": "1.5",
+	"FriendlyName": "BPThreads",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Mashmashu Studio, ColdSteel48",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2950a5bdc50a463a8a99aa2f3f519d19",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BPThreads",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Mac",
+				"IOS",
+				"Linux",
+				"Android",
+				"Win64"
+			]
+		}
+	]
+}

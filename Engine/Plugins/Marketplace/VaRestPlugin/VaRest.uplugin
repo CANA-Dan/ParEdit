@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 32,
-	"VersionName": "1.1-r32",
+	"Version": 33,
+	"VersionName": "1.1.33",
 	"FriendlyName": "VaRest",
 	"Description": "Plugin that makes REST (JSON) server communication easy to use",
 	"Category": "Network",
@@ -10,7 +10,7 @@
 	"DocsURL": "https://bit.ly/VaRest-Docs",
 	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f",
 	"SupportURL": "",
-	"EngineVersion": "4.26.0",
+	"EngineVersion": "4.27.0",
 	"CanContainContent": false,
 	"Installed": true,
 	"Modules": [
