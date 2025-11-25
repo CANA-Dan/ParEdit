@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{2C25E60D-4B2E-B0D8-33BB-2FBF0D9C105F}",
+	"EngineAssociation": "{994CB847-4347-69B4-E9EE-72B0C3632E67}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -250,7 +250,7 @@
 		},
 		{
 			"Name": "AnalysisPlugin",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "Synthesis",
@@ -301,10 +301,6 @@
 		},
 		{
 			"Name": "Paper2D",
-			"Enabled": false
-		},
-		{
-			"Name": "AndroidPermission",
 			"Enabled": false
 		},
 		{
@@ -566,11 +562,12 @@
 			"Enabled": false
 		},
 		{
-			"Name": "TextureFormatOodle",
-			"Enabled": false
+			"Name": "BlueprintBox",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"Android"
 	]
 }
